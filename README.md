@@ -1,2 +1,2 @@
 # App-Presupuesto
-AngularJs, Bootstrap
+Practica de AngularJs, Bootstrap
